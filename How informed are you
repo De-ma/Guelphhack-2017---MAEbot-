@@ -1,0 +1,92 @@
+<!doctype html>
+
+<html lang="en-US">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>How informed are you?</title>
+
+<link rel="stylesheet" href="main.css">
+
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+
+<script src="http://use.edgefonts.net/source-sans-pro:n2:default.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+
+<!-- Main Container -->
+
+<div class="container"> 
+
+  <!-- Navigation -->
+
+<header> <a href="index.html">
+
+    <h4 class="logo">MAEBOT</h4>
+
+    </a>
+
+    <nav>
+
+      <ul>
+          <li> <a href="about.html" title="AboutUs" target="new"> About Us</a></li>
+        <li>How informed are you?</li>
+          <li> Resources</li>
+         <li> <a href="#contact"><a href="https://www.facebook.com/Guelph-hacks2k17-612200685642066/" title="GuelphHacks2k17" target="new">CHAT WITH US!</a></a></li>
+
+      </ul>
+
+    </nav>
+
+  </header>
+
+
+  <!-- Information Section -->
+
+  <section class="Info" id="Info">
+
+<h2 class="hidden">Info</h2>
+    <centre>
+    <div id="firstcol">
+
+      <h3><strong>How informed are you?</strong></h3>
+<h2><strong>Understanding Mental Illness</strong></h2>
+      <p>
+      Mental illnesses can take many forms, just as physical illnesses do. Mental illnesses are still feared and misunderstood by many people, but the fear will disappear as people learn more about them. If you, or someone you know, has a mental illness, there is good news: all mental illnesses can be treated.
+      </p>
+      
+
+                </section> 
+
+      </footer>
+ <!-- Footer Section -->
+
+  <section class="footer_banner" id="contact">
+
+    <h2 class="hidden">Footer Banner Section </h2>
+
+    <p class="hero_header">If you ever just want to talk..</p>
+
+    <div class="button"><a href="https://www.facebook.com/Guelph-hacks2k17-612200685642066/" title="Chat with us!" target="new">Chat with us!</a></div>
+
+  </section>
+
+  <!-- Copyrights Section -->
+
+  <div class="copyright">&copy;2017 - <strong>MAEBOT</strong></div>
+
+</div>
+
+<!-- Main Container Ends -->
+
+</body>
+
+</html>
